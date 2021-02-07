@@ -1,0 +1,4 @@
+export const FETCH_ARTICLES = "FETCH_ARTICLES";
+
+export const FETCH_SUCCESSED = "FETCH_SUCCESSED";
+export const FETCH_FAILED = "FETCH_FAILED";
